@@ -1,0 +1,28 @@
+{
+    "name":"SMX.ExecutiveSummary",
+    "version":"1.0.0",
+    "framework":"SMX",
+    "category":"Narrative",
+    "status":"Stable",
+    "author":"Ayelén Diaz",
+    "description":"Enterprise summary component for dashboards.",
+    "supports":[
+        "Power BI",
+        "HTML",
+        "CSS"
+    ],
+    "variants":[
+        "Executive",
+        "Support",
+        "Management",
+        "Training"
+    ],
+    "designTokens":[
+        "Primary",
+        "Secondary",
+        "Radius",
+        "Shadow",
+        "Spacing",
+        "Typography"
+    ]
+}
