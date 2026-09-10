@@ -1,0 +1,13 @@
+{
+  "name": "SMX.Theme",
+  "version": "1.0.0",
+  "framework": "SMX",
+  "category": "Power BI Theme",
+  "status": "Stable",
+  "author": "Ayelén Diaz",
+  "description": "Official corporate Power BI theme for SMX Framework.",
+  "supports": [
+    "Power BI Desktop",
+    "Power BI Service"
+  ]
+}

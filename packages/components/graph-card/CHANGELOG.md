@@ -4,15 +4,13 @@
 
 Initial Release
 
-Features
+### Added
 
-- Executive Layout
-- Operational Layout
-- Compact Layout
-- Minimal Layout
-
-Power BI Guidelines
-
-HTML Reference
-
-CSS Reference
+- Executive layout
+- Operational layout
+- Compact layout
+- Minimal layout
+- Power BI documentation
+- HTML example
+- CSS example
+- Graph standards

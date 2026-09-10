@@ -1,7 +1,21 @@
 .smx-graph{
 
+width:100%;
+
 max-width:700px;
 
 margin:auto;
+
+}
+
+.smx-graph-body{
+
+display:flex;
+
+justify-content:center;
+
+align-items:center;
+
+min-height:240px;
 
 }

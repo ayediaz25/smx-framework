@@ -1,41 +1,61 @@
 # Power BI Guidelines
 
-Recommended Width
+## Recommended Dimensions
 
-600 px
+Large
 
-Recommended Height
+600 × 350 px
 
-350 px
+Medium
 
-Padding
+520 × 320 px
 
-24 px
+Small
 
-Border Radius
+320 × 220 px
 
-20 px
+---
 
-Shadow
+## Layout
 
-SMX Card Shadow
+Header
 
-Recommended Font
+Title
 
-Inter
+Subtitle
 
-Fallback
+Chart Area
 
-Segoe UI
+Footer (optional)
 
-Recommended Header
+---
 
-Title + Subtitle
+## Recommended Visuals
 
-Optional Footer
+Bar Chart
 
-Source
+Column Chart
 
-Last Refresh
+Line Chart
 
-Observations
+Area Chart
+
+Donut Chart
+
+Treemap
+
+Scatter
+
+Map
+
+---
+
+## Best Practices
+
+Keep consistent spacing.
+
+Avoid long titles.
+
+Prefer subtitles under 40 characters.
+
+Use SMX theme colors.

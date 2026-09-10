@@ -2,25 +2,48 @@
 
 ## Executive
 
-Designed for executive dashboards.
+Large visualization container designed for executive dashboards.
 
-Recommended size:
+Recommended Size
+
 600 × 350 px
+
+Use Cases
+
+- Executive dashboards
+- Monthly reports
+- Strategic KPIs
 
 ---
 
 ## Operational
 
-Designed for monitoring dashboards.
+Focused on operational monitoring.
+
+Recommended Size
+
+520 × 320 px
+
+Use Cases
+
+- Operations
+- Support
+- Monitoring
 
 ---
 
 ## Compact
 
-Optimized for small charts.
+Optimized for secondary charts.
+
+Recommended Size
+
+320 × 220 px
 
 ---
 
 ## Minimal
 
-Simple title and chart only.
+Header + Chart only.
+
+No footer.

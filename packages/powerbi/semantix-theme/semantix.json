@@ -1,0 +1,16 @@
+{
+  "name": "SMX Semantix Theme",
+  "foreground": "#FFFFFF",
+  "background": "#0F0F12",
+  "tableAccent": "#5E17EB",
+  "dataColors": [
+    "#5E17EB",
+    "#A855F7",
+    "#60A5FA",
+    "#22C55E",
+    "#F59E0B",
+    "#EC4899",
+    "#06B6D4",
+    "#9CA3AF"
+  ]
+}
