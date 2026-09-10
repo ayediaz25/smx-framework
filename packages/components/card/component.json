@@ -1,0 +1,14 @@
+{
+  "name": "SMX.Card",
+  "version": "0.1.0",
+  "category": "Container",
+  "description": "Base container for all dashboard components.",
+  "variants": [
+    "Light",
+    "Dark",
+    "Glass"
+  ],
+  "radius": 20,
+  "padding": 24,
+  "shadow": "card"
+}
