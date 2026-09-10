@@ -1,0 +1,19 @@
+{
+  "name": "SMX.PageHeader",
+  "version": "1.0.0",
+  "framework": "SMX",
+  "category": "Layout",
+  "status": "Stable",
+  "author": "Ayelén Diaz",
+  "description": "Standard page header for dashboards.",
+  "supports": [
+    "Power BI",
+    "HTML",
+    "CSS"
+  ],
+  "variants": [
+    "Executive",
+    "Operational",
+    "Minimal"
+  ]
+}
