@@ -1,0 +1,28 @@
+{
+    "name":"SMX.GraphCard",
+    "version":"1.0.0",
+    "framework":"SMX",
+    "category":"Visualization",
+    "status":"Stable",
+    "author":"Ayelén Diaz",
+    "description":"Enterprise container for charts.",
+    "supports":[
+        "Power BI",
+        "HTML",
+        "CSS"
+    ],
+    "variants":[
+        "Executive",
+        "Operational",
+        "Compact",
+        "Minimal"
+    ],
+    "designTokens":[
+        "Primary",
+        "Secondary",
+        "Radius",
+        "Shadow",
+        "Spacing",
+        "Typography"
+    ]
+}
