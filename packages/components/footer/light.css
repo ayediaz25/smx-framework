@@ -1,0 +1,27 @@
+.smx-footer{
+
+display:flex;
+
+justify-content:space-between;
+
+align-items:center;
+
+padding:16px 24px;
+
+background:#FFFFFF;
+
+border-top:1px solid #E7DAFF;
+
+font-size:12px;
+
+color:#666666;
+
+}
+
+.smx-footer-brand{
+
+font-weight:700;
+
+color:#5E17EB;
+
+}
