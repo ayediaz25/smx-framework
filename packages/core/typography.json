@@ -1,0 +1,9 @@
+{
+    "fontFamily": "Inter",
+    "fallback": "Segoe UI",
+    "title": 24,
+    "subtitle": 16,
+    "body": 12,
+    "caption": 11,
+    "kpi": 36
+}

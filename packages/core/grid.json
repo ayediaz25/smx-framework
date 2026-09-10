@@ -1,0 +1,10 @@
+{
+    "canvasWidth": 1280,
+    "canvasHeight": 720,
+    "columns": 12,
+    "margin": 32,
+    "gutter": 24,
+    "headerHeight": 80,
+    "footerHeight": 40,
+    "kpiHeight": 110
+}

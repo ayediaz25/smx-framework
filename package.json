@@ -1,0 +1,20 @@
+{
+    "name": "smx-framework",
+    "version": "0.1.0-alpha",
+    "description": "Enterprise Dashboard Framework for Power BI",
+    "author": "Ayelén Diaz",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ayediaz25/smx-framework.git"
+    },
+    "keywords": [
+        "powerbi",
+        "dashboard",
+        "design-system",
+        "dax",
+        "html",
+        "analytics",
+        "business-intelligence"
+    ]
+}

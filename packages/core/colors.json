@@ -1,0 +1,15 @@
+{
+    "primary": "#5E17EB",
+    "primaryHover": "#7441F4",
+    "secondary": "#B388FF",
+    "accent": "#A855F7",
+    "background": "#FFFFFF",
+    "surface": "#FAF7FF",
+    "glass": "#F5EEFF",
+    "border": "#E7DAFF",
+    "text": "#333333",
+    "muted": "#666666",
+    "success": "#10B981",
+    "warning": "#F59E0B",
+    "danger": "#EF4444"
+}

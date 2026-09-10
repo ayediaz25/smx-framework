@@ -1,0 +1,10 @@
+{
+    "theme": "Semantix Executive",
+    "version": "0.1.0",
+    "colors": "colors.json",
+    "spacing": "spacing.json",
+    "radius": "radius.json",
+    "typography": "typography.json",
+    "grid": "grid.json",
+    "shadow": "shadow.json"
+}
