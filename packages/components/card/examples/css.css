@@ -1,0 +1,40 @@
+/* ===================================================
+   SMX Framework
+   Component: Card
+   Example Styles
+   Version: 1.0.0
+=================================================== */
+
+.demo-card-container{
+
+    display:grid;
+
+    grid-template-columns:repeat(auto-fit,minmax(280px,1fr));
+
+    gap:24px;
+
+    padding:32px;
+
+    background:#F5F6FA;
+
+}
+
+.demo-card{
+
+    max-width:420px;
+
+    margin:auto;
+
+}
+
+.demo-card h3{
+
+    margin-bottom:12px;
+
+}
+
+.demo-card p{
+
+    line-height:1.6;
+
+}
