@@ -1,0 +1,29 @@
+{
+  "name": "SMX.KPI",
+  "version": "1.0.0",
+  "framework": "SMX",
+  "category": "Metric",
+  "status": "Stable",
+  "author": "Ayelén Diaz",
+  "description": "Enterprise KPI component for dashboards.",
+  "supports": [
+    "Power BI",
+    "HTML",
+    "CSS"
+  ],
+  "variants": [
+    "Executive",
+    "Operational",
+    "Compact",
+    "Glass",
+    "Dark"
+  ],
+  "designTokens": [
+    "Primary",
+    "Secondary",
+    "Radius",
+    "Shadow",
+    "Spacing",
+    "Typography"
+  ]
+}
