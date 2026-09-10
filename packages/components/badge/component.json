@@ -1,0 +1,25 @@
+{
+  "name": "SMX.Badge",
+  "version": "1.0.0",
+  "framework": "SMX",
+  "category": "Status",
+  "status": "Stable",
+  "author": "Ayelén Diaz",
+  "description": "Enterprise badge component.",
+  "supports": [
+    "Power BI",
+    "HTML",
+    "CSS"
+  ],
+  "variants": [
+    "Filled",
+    "Outlined",
+    "Soft",
+    "Glass"
+  ],
+  "sizes": [
+    "Small",
+    "Medium",
+    "Large"
+  ]
+}
