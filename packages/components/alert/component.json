@@ -1,0 +1,20 @@
+{
+  "name": "SMX.Alert",
+  "version": "1.0.0",
+  "framework": "SMX",
+  "category": "Feedback",
+  "status": "Stable",
+  "author": "Ayelén Diaz",
+  "description": "Enterprise alert component.",
+  "supports": [
+    "Power BI",
+    "HTML",
+    "CSS"
+  ],
+  "variants": [
+    "Success",
+    "Warning",
+    "Danger",
+    "Info"
+  ]
+}

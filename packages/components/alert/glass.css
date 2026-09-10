@@ -1,0 +1,21 @@
+.smx-alert{
+
+display:flex;
+
+gap:16px;
+
+padding:16px 20px;
+
+border-radius:16px;
+
+background:rgba(255,255,255,.12);
+
+backdrop-filter:blur(12px);
+
+border-left:6px solid #C084FC;
+
+border:1px solid rgba(255,255,255,.20);
+
+color:white;
+
+}

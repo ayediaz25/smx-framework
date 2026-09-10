@@ -1,0 +1,17 @@
+.smx-alert{
+
+display:flex;
+
+gap:16px;
+
+padding:16px 20px;
+
+border-radius:16px;
+
+background:#1A1A22;
+
+border-left:6px solid #A855F7;
+
+color:white;
+
+}

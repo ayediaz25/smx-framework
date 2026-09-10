@@ -1,0 +1,39 @@
+.smx-alert{
+
+display:flex;
+
+align-items:flex-start;
+
+gap:16px;
+
+padding:16px 20px;
+
+border-radius:16px;
+
+background:#FFFFFF;
+
+border-left:6px solid #5E17EB;
+
+box-shadow:0 4px 12px rgba(0,0,0,.08);
+
+}
+
+.smx-alert-title{
+
+font-size:15px;
+
+font-weight:700;
+
+color:#222;
+
+}
+
+.smx-alert-text{
+
+font-size:13px;
+
+line-height:1.6;
+
+color:#555;
+
+}
