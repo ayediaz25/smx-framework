@@ -1,0 +1,24 @@
+{
+  "name": "SMX.Layout.DashboardGrid",
+  "version": "1.0.0",
+  "framework": "SMX",
+  "type": "Layout",
+  "category": "Dashboard",
+  "status": "Stable",
+  "author": "Ayelén Diaz",
+  "description": "Standard responsive dashboard layout.",
+  "regions": [
+    "Header",
+    "Top KPI Area",
+    "Main Content",
+    "Secondary Content",
+    "Footer"
+  ],
+  "supports": [
+    "Executive Dashboard",
+    "Support Dashboard",
+    "Operations Dashboard",
+    "Commercial Dashboard",
+    "Training Dashboard"
+  ]
+}

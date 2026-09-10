@@ -1,0 +1,28 @@
+/* ===================================================
+   SMX Framework
+   Layout: Dashboard Grid
+=================================================== */
+
+.smx-dashboard{
+
+    display:grid;
+
+    grid-template-rows:auto auto 1fr auto;
+
+    gap:24px;
+
+    padding:32px;
+
+    min-height:100vh;
+
+    background:#F5F6FA;
+
+}
+
+.smx-dashboard-main{
+
+    display:grid;
+
+    gap:24px;
+
+}
