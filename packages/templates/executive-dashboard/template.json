@@ -1,0 +1,18 @@
+{
+  "name": "SMX.Template.ExecutiveDashboard",
+  "version": "1.0.0",
+  "framework": "SMX",
+  "type": "Template",
+  "category": "Dashboard",
+  "status": "Stable",
+  "author": "Ayelén Diaz",
+  "layout": "SMX.Layout.DashboardGrid",
+  "theme": "SMX.Theme.Semantix",
+  "components": [
+    "SMX.PageHeader",
+    "SMX.KPI",
+    "SMX.ExecutiveSummary",
+    "SMX.GraphCard",
+    "SMX.Footer"
+  ]
+}
