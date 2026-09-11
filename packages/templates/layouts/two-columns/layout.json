@@ -1,0 +1,10 @@
+{
+  "name": "SMX.Layout.TwoColumns",
+  "version": "1.0.0",
+  "framework": "SMX",
+  "type": "Layout",
+  "status": "Stable",
+  "columns": 2,
+  "responsive": true,
+  "gap": "24px"
+}
