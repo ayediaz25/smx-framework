@@ -1,0 +1,21 @@
+{
+  "name": "SMX.Template.OperationsDashboard",
+  "version": "1.0.0",
+  "framework": "SMX",
+  "type": "Template",
+  "status": "Stable",
+  "author": "Ayelén Diaz",
+  "theme": "SMX.Theme.Semantix",
+  "layout": "SMX.Layout.DashboardGrid",
+  "canvas": "16:9",
+  "components": [
+    "SMX.PageHeader",
+    "SMX.FilterPanel",
+    "SMX.KPI",
+    "SMX.GraphCard",
+    "SMX.Table",
+    "SMX.Ranking",
+    "SMX.Timeline",
+    "SMX.Footer"
+  ]
+}
