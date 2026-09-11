@@ -1,0 +1,18 @@
+{
+  "name":"SMX.Template.TrainingDashboard",
+  "version":"1.0.0",
+  "framework":"SMX",
+  "type":"Template",
+  "status":"Stable",
+  "theme":"SMX.Theme.Semantix",
+  "layout":"SMX.Layout.DashboardGrid",
+  "components":[
+    "SMX.PageHeader",
+    "SMX.FilterPanel",
+    "SMX.KPI",
+    "SMX.GraphCard",
+    "SMX.Table",
+    "SMX.Timeline",
+    "SMX.Footer"
+  ]
+}
