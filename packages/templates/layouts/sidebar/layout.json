@@ -1,0 +1,13 @@
+{
+  "name": "SMX.Layout.Sidebar",
+  "version": "1.0.0",
+  "framework": "SMX",
+  "type": "Layout",
+  "status": "Stable",
+  "sidebarWidth": "280px",
+  "responsive": true,
+  "areas": [
+    "Sidebar",
+    "Content"
+  ]
+}
