@@ -1,0 +1,1 @@
+console.log("SMX Support Dashboard loaded.");
