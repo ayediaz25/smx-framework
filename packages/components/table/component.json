@@ -1,14 +1,36 @@
 {
   "name": "SMX.Table",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "framework": "SMX",
-  "category": "Data",
+  "category": "Data Display",
   "status": "Stable",
   "author": "Ayelén Diaz",
-  "description": "Enterprise table component.",
+
   "supports": [
     "Power BI",
     "HTML",
     "CSS"
-  ]
+  ],
+
+  "sizes": [
+    "compact",
+    "comfortable",
+    "large"
+  ],
+
+  "variants": [
+    "light",
+    "dark",
+    "glass"
+  ],
+
+  "features": {
+    "striped": true,
+    "hover": true,
+    "sortable": true,
+    "stickyHeader": true,
+    "responsive": true,
+    "pagination": false,
+    "search": false
+  }
 }

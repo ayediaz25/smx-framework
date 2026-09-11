@@ -41,3 +41,15 @@ Glass
 - Executive Reports
 - Support Dashboards
 - Commercial Dashboards
+
+## Component Properties
+
+| Property | Type | Default | Description |
+|-----------|------|---------|-------------|
+| striped | boolean | true | Alternate row colors |
+| hover | boolean | true | Row highlight |
+| sortable | boolean | true | Sort columns |
+| stickyHeader | boolean | true | Fixed header |
+| responsive | boolean | true | Responsive layout |
+| pagination | boolean | false | Enable pagination |
+| search | boolean | false | Search bar |

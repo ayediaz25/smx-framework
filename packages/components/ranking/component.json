@@ -1,0 +1,14 @@
+{
+  "name": "SMX.Ranking",
+  "version": "1.0.0",
+  "framework": "SMX",
+  "category": "Data Display",
+  "status": "Stable",
+  "author": "Ayelén Diaz",
+  "description": "Enterprise ranking component.",
+  "supports": [
+    "Power BI",
+    "HTML",
+    "CSS"
+  ]
+}

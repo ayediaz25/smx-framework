@@ -1,0 +1,37 @@
+.smx-ranking{
+
+display:flex;
+
+flex-direction:column;
+
+gap:14px;
+
+padding:24px;
+
+background:#1A1A22;
+
+border-radius:18px;
+
+color:white;
+
+}
+
+.smx-ranking-item{
+
+display:flex;
+
+justify-content:space-between;
+
+padding:10px 0;
+
+border-bottom:1px solid #333;
+
+}
+
+.smx-ranking-value{
+
+color:#C084FC;
+
+font-weight:700;
+
+}
