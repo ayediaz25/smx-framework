@@ -1,0 +1,33 @@
+.smx-table{
+
+width:100%;
+
+border-collapse:collapse;
+
+background:rgba(255,255,255,.08);
+
+backdrop-filter:blur(12px);
+
+color:white;
+
+border-radius:16px;
+
+overflow:hidden;
+
+}
+
+.smx-table th{
+
+background:rgba(94,23,235,.65);
+
+padding:14px;
+
+}
+
+.smx-table td{
+
+padding:14px;
+
+border-bottom:1px solid rgba(255,255,255,.15);
+
+}

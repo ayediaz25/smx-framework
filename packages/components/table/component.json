@@ -1,0 +1,14 @@
+{
+  "name": "SMX.Table",
+  "version": "1.0.0",
+  "framework": "SMX",
+  "category": "Data",
+  "status": "Stable",
+  "author": "Ayelén Diaz",
+  "description": "Enterprise table component.",
+  "supports": [
+    "Power BI",
+    "HTML",
+    "CSS"
+  ]
+}

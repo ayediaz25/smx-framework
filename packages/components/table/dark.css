@@ -1,0 +1,33 @@
+.smx-table{
+
+width:100%;
+
+border-collapse:collapse;
+
+background:#1A1A22;
+
+color:white;
+
+}
+
+.smx-table th{
+
+background:#5E17EB;
+
+padding:14px;
+
+}
+
+.smx-table td{
+
+padding:14px;
+
+border-bottom:1px solid #333;
+
+}
+
+.smx-table tbody tr:hover{
+
+background:#24242E;
+
+}
