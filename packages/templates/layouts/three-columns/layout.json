@@ -1,0 +1,15 @@
+{
+  "name": "SMX.Layout.ThreeColumns",
+  "version": "1.0.0",
+  "framework": "SMX",
+  "type": "Layout",
+  "status": "Stable",
+  "columns": 3,
+  "responsive": true,
+  "gap": "24px",
+  "breakpoints": {
+    "desktop": "3 columns",
+    "tablet": "2 columns",
+    "mobile": "1 column"
+  }
+}

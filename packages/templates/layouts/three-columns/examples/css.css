@@ -1,0 +1,17 @@
+body{
+
+margin:32px;
+
+font-family:Inter,Segoe UI,sans-serif;
+
+background:#F5F6FA;
+
+}
+
+.smx-layout-three-columns{
+
+max-width:1600px;
+
+margin:auto;
+
+}
