@@ -1,0 +1,14 @@
+{
+  "name": "SMX.EmptyState",
+  "version": "1.0.0",
+  "framework": "SMX",
+  "category": "Feedback",
+  "status": "Stable",
+  "author": "Ayelén Diaz",
+  "description": "Enterprise empty state component.",
+  "supports": [
+    "Power BI",
+    "HTML",
+    "CSS"
+  ]
+}
