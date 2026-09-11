@@ -1,0 +1,52 @@
+.smx-filter-panel{
+
+display:flex;
+
+flex-wrap:wrap;
+
+gap:16px;
+
+padding:20px;
+
+background:#FFFFFF;
+
+border-radius:18px;
+
+box-shadow:0 4px 12px rgba(0,0,0,.08);
+
+}
+
+.smx-filter-group{
+
+display:flex;
+
+flex-direction:column;
+
+gap:6px;
+
+min-width:180px;
+
+}
+
+.smx-filter-group label{
+
+font-size:12px;
+
+font-weight:600;
+
+color:#555;
+
+}
+
+.smx-filter-group select,
+.smx-filter-group input{
+
+padding:10px;
+
+border:1px solid #DDD;
+
+border-radius:10px;
+
+font-size:13px;
+
+}

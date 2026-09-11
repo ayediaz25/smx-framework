@@ -1,0 +1,14 @@
+{
+  "name": "SMX.FilterPanel",
+  "version": "1.0.0",
+  "framework": "SMX",
+  "category": "Filters",
+  "status": "Stable",
+  "author": "Ayelén Diaz",
+  "description": "Enterprise filter panel.",
+  "supports": [
+    "Power BI",
+    "HTML",
+    "CSS"
+  ]
+}
