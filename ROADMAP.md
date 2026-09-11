@@ -1,16 +1,51 @@
-# Roadmap
+# SMX Framework Roadmap
 
-## Version 0.1
+---
 
-- [x] Repository
-- [x] Git Flow
-- [x] Core
-- [ ] Components
-- [ ] Power BI Theme
-- [ ] HTML Library
-- [ ] DAX Library
-- [ ] Templates
+# Version 1.0 ✅
 
-## Version 1.0
+Foundation
 
-- Stable Release
+✔ Core
+
+✔ Theme
+
+✔ Components
+
+✔ Layouts
+
+✔ Templates
+
+---
+
+# Version 1.1
+
+- Additional Dashboard Templates
+
+- New Component Variants
+
+- Performance Improvements
+
+- Accessibility Enhancements
+
+---
+
+# Version 2.0
+
+- React Package
+
+- Vue Package
+
+- Angular Package
+
+- NPM Distribution
+
+- Storybook Showcase
+
+- Advanced Theme Builder
+
+---
+
+# Long-Term Vision
+
+SMX Framework aims to become a reusable design system for Power BI, HTML dashboards and enterprise web applications.

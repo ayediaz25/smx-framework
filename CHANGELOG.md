@@ -1,13 +1,23 @@
 # Changelog
 
-## [0.1.0-alpha]
+## v1.0.0
 
 ### Added
 
-- Initial repository structure
-- Core design tokens
-- Color palette
-- Typography
-- Grid system
-- Shadow system
-- Spacing system
+- Core Design Tokens
+- Theme Engine
+- 13 Components
+- 5 Layouts
+- 5 Templates
+
+### Documentation
+
+- Contributing Guide
+- Security Policy
+- Code of Conduct
+
+### Repository
+
+- Git Workflow
+- Issue Templates
+- Pull Request Template
