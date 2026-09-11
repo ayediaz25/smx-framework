@@ -1,10 +1,10 @@
-# Dashboard Structure
+# Executive Dashboard Layout
 
 Page Header
 
 ↓
 
-KPI Row
+4 KPI Cards
 
 ↓
 
@@ -12,7 +12,11 @@ Executive Summary
 
 ↓
 
-Graph Area
+Graph Row A (2 columns)
+
+↓
+
+Graph Row B (full width)
 
 ↓
 

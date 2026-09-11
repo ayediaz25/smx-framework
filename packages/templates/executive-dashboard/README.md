@@ -1,14 +1,16 @@
 # SMX.Template.ExecutiveDashboard
 
-Version: 1.0.0
-
-Enterprise Executive Dashboard Template.
+Enterprise executive dashboard built using the SMX Framework.
 
 ---
 
-## Purpose
+## Included Components
 
-Standard executive dashboard built using SMX Framework components.
+- SMX.PageHeader
+- SMX.KPI
+- SMX.ExecutiveSummary
+- SMX.GraphCard
+- SMX.Footer
 
 ---
 
@@ -18,17 +20,9 @@ SMX.Layout.DashboardGrid
 
 ---
 
-## Components
+## Theme
 
-SMX.PageHeader
-
-SMX.KPI
-
-SMX.ExecutiveSummary
-
-SMX.GraphCard
-
-SMX.Footer
+SMX.Theme.Semantix
 
 ---
 
@@ -36,8 +30,13 @@ SMX.Footer
 
 16:9
 
+1600 × 900 px
+
 ---
 
-## Theme
+## Typical Use Cases
 
-SMX.Theme.Semantix
+- Executive KPIs
+- Business Intelligence
+- Monthly Reports
+- Management Dashboards

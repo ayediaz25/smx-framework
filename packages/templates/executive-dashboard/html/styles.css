@@ -1,4 +1,16 @@
-.kpi-row{
+body{
+
+margin:0;
+
+padding:32px;
+
+font-family:Inter,Segoe UI,sans-serif;
+
+background:#F5F6FA;
+
+}
+
+.kpis{
 
 display:grid;
 
@@ -10,7 +22,7 @@ margin-bottom:24px;
 
 }
 
-.graph-row{
+.graphs{
 
 display:grid;
 

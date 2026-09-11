@@ -6,7 +6,8 @@ Initial Release
 
 ### Added
 
-- Executive Dashboard Template
-- DashboardGrid Layout
-- Power BI Example
+- Executive Dashboard
 - HTML Example
+- Power BI Guide
+- Accessibility Guide
+- Customization Guide
