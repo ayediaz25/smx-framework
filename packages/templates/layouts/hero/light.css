@@ -1,0 +1,60 @@
+/* ==========================================
+   SMX Framework
+   Layout: Hero
+========================================== */
+
+.smx-hero{
+
+display:flex;
+
+justify-content:space-between;
+
+align-items:center;
+
+padding:40px;
+
+background:#FFFFFF;
+
+border-radius:24px;
+
+box-shadow:0 8px 20px rgba(0,0,0,.08);
+
+gap:32px;
+
+}
+
+.smx-hero-content{
+
+flex:1;
+
+}
+
+.smx-hero-title{
+
+font-size:36px;
+
+font-weight:700;
+
+color:#5E17EB;
+
+margin-bottom:12px;
+
+}
+
+.smx-hero-subtitle{
+
+font-size:16px;
+
+color:#666;
+
+line-height:1.6;
+
+}
+
+.smx-hero-actions{
+
+display:flex;
+
+gap:12px;
+
+}

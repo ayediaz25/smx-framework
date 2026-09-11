@@ -1,0 +1,13 @@
+{
+  "name": "SMX.Layout.Hero",
+  "version": "1.0.0",
+  "framework": "SMX",
+  "type": "Layout",
+  "status": "Stable",
+  "responsive": true,
+  "areas": [
+    "Title",
+    "Subtitle",
+    "Actions"
+  ]
+}
