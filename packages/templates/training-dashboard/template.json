@@ -1,0 +1,36 @@
+{
+  "id": "training-dashboard",
+  "name": "SMX.Template.TrainingDashboard",
+  "displayName": "Training Dashboard",
+  "description": "Training analytics dashboard built with SMX Framework.",
+  "version": "1.0.0",
+  "category": "template",
+  "author": "SMX Framework",
+  "license": "MIT",
+  "preview": "./preview.png",
+  "layout": "./layout.md",
+  "documentation": "./README.md",
+  "wireframes": {
+    "desktop": "./wireframes/desktop.png",
+    "mobile": "./wireframes/mobile.png"
+  },
+  "powerbi": "./powerbi/training-dashboard.pbit",
+  "tags": [
+    "training",
+    "learning",
+    "dashboard",
+    "courses",
+    "powerbi",
+    "analytics",
+    "template"
+  ],
+  "components": [
+    "SMX.PageHeader",
+    "SMX.Sidebar",
+    "SMX.KPI",
+    "SMX.GraphCard",
+    "SMX.FilterPanel",
+    "SMX.Table",
+    "SMX.Timeline"
+  ]
+}

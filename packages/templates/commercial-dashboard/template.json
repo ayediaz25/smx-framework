@@ -1,0 +1,37 @@
+{
+  "id": "commercial-dashboard",
+  "name": "SMX.Template.CommercialDashboard",
+  "displayName": "Commercial Dashboard",
+  "description": "Complete commercial analytics dashboard built with SMX Framework.",
+  "version": "1.0.0",
+  "category": "template",
+  "author": "SMX Framework",
+  "license": "MIT",
+  "preview": "./preview.png",
+  "layout": "./layout.md",
+  "documentation": "./README.md",
+  "wireframes": {
+    "desktop": "./wireframes/desktop.png",
+    "mobile": "./wireframes/mobile.png"
+  },
+  "powerbi": "./powerbi/commercial-dashboard.pbit",
+  "tags": [
+    "sales",
+    "commercial",
+    "dashboard",
+    "analytics",
+    "powerbi",
+    "executive",
+    "kpi",
+    "template"
+  ],
+  "components": [
+    "SMX.KPI",
+    "SMX.GraphCard",
+    "SMX.Table",
+    "SMX.FilterPanel",
+    "SMX.Ranking",
+    "SMX.Sidebar",
+    "SMX.PageHeader"
+  ]
+}
